@@ -1,3 +1,5 @@
+![Communicare Banner](profile/img/banner.jpg)
+
 ## C23 PS325 Product Capstone - Communicare - Bangkit Academy 2023
 Communicare is a mobile application that applies the principles of communication psychology to enhance your communication skills using machine learning technologies.
 
