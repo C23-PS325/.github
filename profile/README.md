@@ -16,6 +16,17 @@ Mobile Development
 - (MD) A360DSX1258 – Arda Ardiyansyah – Telkom University
 - (MD) A109DSY1725 – Fani Aghistiya Lestari – STMIK Mardira Indonesia
 
+
+## System Diagram
+![Communicare System Diagram](img/system-diagram.png)
+
+## Development Workflow
+### A.) ml-engine Development Workflow
+![ml-engine Development Workflow](img/ml-engine-workflow.png)
+
+### B.)mobile-api Development Workflow
+![mobile-api Development Workflow](img/mobile-api-workflow.png)
+
 ## Description
 Communicare is a mobile application developed as part of the C23 PS325 Product Capstone project for Bangkit Academy 2023. The application leverages the principles of communication psychology and integrates machine learning technologies to improve users' communication skills.
 
