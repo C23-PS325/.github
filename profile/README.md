@@ -4,7 +4,7 @@
 Communicare is a mobile application that applies the principles of communication psychology to enhance your communication skills using machine learning technologies.
 
 ## Team Members
-Machine Learning
+### Machine Learning
 <table>
   <tr>
     <td align="center">
@@ -22,7 +22,7 @@ Machine Learning
   </tr>
 </table>
 
-Mobile Development
+### Mobile Development
 <table>
   <tr>
     <td align="center">
@@ -40,7 +40,7 @@ Mobile Development
   </tr>
 </table> 
 
-Cloud Computing
+### Cloud Computing
 <table>
   <tr>
     <td align="center">
