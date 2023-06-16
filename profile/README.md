@@ -1,10 +1,12 @@
 ![Communicare Banner](profile/img/banner.jpg)
 
 ## C23-PS325 - Product Capstone - Communicare - Bangkit Academy 2023
-Communicare is a mobile application that applies the principles of communication psychology to enhance your communication skills using machine learning technologies.
+Communicare is a mobile application developed as part of the C23 PS325 Product Capstone project for Bangkit Academy 2023. The application leverages the principles of communication psychology and integrates machine learning technologies to improve users' communication skills.
 
-## Team Members
-### Machine Learning 🤖
+With Communicare, users can expect to enhance their communication abilities through various features and functionalities. The application employs machine learning algorithms to provide personalized recommendations, practice scenarios, and interactive exercises to help users develop effective communication strategies.
+
+## A.) Communicare Team Members
+### 🤖 Machine Learning
 <table>
   <tr>
     <td align="center">
@@ -22,7 +24,7 @@ Communicare is a mobile application that applies the principles of communication
   </tr>
 </table>
 
-### Mobile Development 📱
+### 📱 Mobile Development
 <table>
   <tr>
     <td align="center">
@@ -40,7 +42,7 @@ Communicare is a mobile application that applies the principles of communication
   </tr>
 </table> 
 
-### Cloud Computing ☁️
+### ☁️ Cloud Computing
 <table>
   <tr>
     <td align="center">
@@ -58,17 +60,14 @@ Communicare is a mobile application that applies the principles of communication
   </tr>
 </table>
 
-## Communicare System Diagram
+## B.) Communicare System Diagram
 ![Communicare System Diagram](profile/img/system-diagram.png)
 
-## Development Workflow
-### A.) Machine Learning CI/CD Workflow
+## C.) Development Workflow
+
+### Machine Learning CI/CD Workflow
 ![ml-engine Development Workflow](profile/img/ml-engine-workflow.png)
 
-### B.) Mobile API CI/CD Workflow
+### Mobile API CI/CD Workflow
 ![mobile-api Development Workflow](profile/img/mobile-api-workflow.png)
 
-## Description
-Communicare is a mobile application developed as part of the C23 PS325 Product Capstone project for Bangkit Academy 2023. The application leverages the principles of communication psychology and integrates machine learning technologies to improve users' communication skills.
-
-With Communicare, users can expect to enhance their communication abilities through various features and functionalities. The application employs machine learning algorithms to provide personalized recommendations, practice scenarios, and interactive exercises to help users develop effective communication strategies.
