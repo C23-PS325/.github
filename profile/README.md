@@ -58,14 +58,14 @@ Communicare is a mobile application that applies the principles of communication
   </tr>
 </table>
 
-## System Diagram
+## Communicare System Diagram
 ![Communicare System Diagram](profile/img/system-diagram.png)
 
 ## Development Workflow
-### A.) ml-engine Development Workflow
+### A.) Machine Learning CI/CD Workflow
 ![ml-engine Development Workflow](profile/img/ml-engine-workflow.png)
 
-### B.)mobile-api Development Workflow
+### B.) Mobile API CI/CD Workflow
 ![mobile-api Development Workflow](profile/img/mobile-api-workflow.png)
 
 ## Description
